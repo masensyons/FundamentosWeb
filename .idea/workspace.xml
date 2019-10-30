@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66ec27dc-c13f-481c-b5e6-44efcfffe2c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Images/alaves.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/villarreal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572445101428</updated>
-      <workItem from="1572445102641" duration="4831000" />
+      <workItem from="1572445102641" duration="5104000" />
     </task>
     <servers />
   </component>
